@@ -1,5 +1,5 @@
 {
-    "name":        "staticall/petrovich-php",
+    "name":        "awkaw/petrovich-php",
     "description": "Fork of original petrovich/petrovich-php repository, with testing, PHP7 support and minor improvements",
     "license":     "MIT",
 
