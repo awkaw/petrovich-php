@@ -13,7 +13,7 @@
 Для установке, добавьте данный пакет в зависимости *Composer*, либо вручную, либо используя следующую команду:
 
 ``
-composer require staticall/petrovich-php
+composer require awkaw/petrovich-php
 ``
 
 ### Пример использования
